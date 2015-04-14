@@ -4,6 +4,9 @@
   "main": [
     "./dist/owl.carousel.js"
   ],
+  "ignore": [
+    "**/*.txt"
+  ],
   "dependencies": {
     "jquery": ">= 1.8.3"
   },
